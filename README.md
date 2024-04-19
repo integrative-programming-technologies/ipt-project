@@ -1,8 +1,8 @@
 # ipt-project
 
 Midterm Project Group: 
-Acenas, Jhorne Bhoy
-Arocha, Vincent John
-Dalura, Era Mae
-Ebarle, Lessa Mae
-Paye, John Dwight
+Jhorne Bhoy Acenas
+Vincent John Arocha
+Era Mae Dalura
+Lessa Mae Ebarle
+John Dwight Paye
