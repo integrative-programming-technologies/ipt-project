@@ -1,7 +1,6 @@
 # ipt-project
 
-MidtermProject_StudentList  
-Group: 
+Midterm Project Group: 
 Acenas, Jhorne Bhoy
 Arocha, Vincent John
 Dalura, Era Mae
